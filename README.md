@@ -30,7 +30,22 @@ This project demonstrates the integration of Large Language Models (LLMs), promp
 * Error handling and API validation
 
 ---
+## Architecture
+User Prompt
+    ↓
+Prompt Validation
+    ↓
+Prompt Enhancement (LLM)
+    ↓
+Image Generation API
+    ↓
+Generated Image
+    ↓
+Storage + Display
+    ↓
+Metadata Logging
 
+---
 ## Technology Stack
 
 ### Programming Language
