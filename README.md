@@ -1,10 +1,10 @@
-#🎨 AI-Powered Image Generator
+🎨# AI-Powered Image Generator
 
 An AI-powered image generation application that transforms simple user ideas into high-quality AI-generated images.
 
 The application uses Groq LLMs for intelligent prompt enhancement and Google Gemini 2.5 Flash Image (via OpenRouter) for image generation, all wrapped in an interactive Streamlit web interface.
 
-#🚀 Project Overview
+🚀# Project Overview
 
 Creating high-quality AI-generated images often requires detailed and well-structured prompts. Most users provide short descriptions that may not generate the best results.
 
@@ -24,7 +24,7 @@ Generated Output
 
 A visually appealing AI-generated image based on the enhanced prompt.
 
-#✨ Features
+✨# Features
 User-friendly Streamlit interface
 AI-powered prompt enhancement using Groq
 High-quality image generation using Gemini 2.5 Flash Image
@@ -32,7 +32,8 @@ Download generated images
 Environment variable management using .env
 Modular and clean project structure
 Real-time image generation workflow
-🏗️ System Architecture
+---
+🏗️ #System Architecture
 +------------------+
 |   User Prompt    |
 +------------------+
@@ -67,7 +68,7 @@ Real-time image generation workflow
 +------------------+
 | Streamlit UI     |
 +------------------+
-🛠️ Tech Stack
+🛠️ #Tech Stack
 Technology	Purpose
 Python	Core Programming Language
 Streamlit	Frontend Web Interface
@@ -78,7 +79,8 @@ LangChain	Groq Integration
 Pillow	Image Processing
 Requests	API Communication
 Python Dotenv	Environment Variable Management
-📂 Project Structure
+---
+📂 #Project Structure
 ai-powered-image-generator/
 │
 ├── app.py
@@ -87,6 +89,7 @@ ai-powered-image-generator/
 ├── README.md
 │
 └── generated_images/
+---
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/yourusername/ai-powered-image-generator.git
@@ -105,7 +108,8 @@ python3 -m venv venv
 source venv/bin/activate
 Install Dependencies
 pip install -r requirements.txt
-🔑 Environment Variables
+---
+🔑# Environment Variables
 
 Create a .env file in the project root directory.
 
@@ -153,7 +157,8 @@ Anime Style
 An anime girl walking in Tokyo at night
 Architecture
 A modern luxury villa by the beach
-📈 Future Enhancements
+
+📈 #Future Enhancements
 Multiple image generation
 Image editing capabilities
 Image-to-image generation
@@ -164,7 +169,8 @@ Image gallery
 Different art styles selection
 Negative prompt support
 Advanced image settings
-🎯 Learning Outcomes
+---
+🎯 #Learning Outcomes
 
 This project demonstrates:
 
