@@ -1,10 +1,10 @@
-🎨 AI-Powered Image Generator
+#🎨 AI-Powered Image Generator
 
 An AI-powered image generation application that transforms simple user ideas into high-quality AI-generated images.
 
 The application uses Groq LLMs for intelligent prompt enhancement and Google Gemini 2.5 Flash Image (via OpenRouter) for image generation, all wrapped in an interactive Streamlit web interface.
 
-🚀 Project Overview
+#🚀 Project Overview
 
 Creating high-quality AI-generated images often requires detailed and well-structured prompts. Most users provide short descriptions that may not generate the best results.
 
@@ -24,7 +24,7 @@ Generated Output
 
 A visually appealing AI-generated image based on the enhanced prompt.
 
-✨ Features
+#✨ Features
 User-friendly Streamlit interface
 AI-powered prompt enhancement using Groq
 High-quality image generation using Gemini 2.5 Flash Image
